@@ -1,10 +1,10 @@
-# aparna-portfolio
 # Aparna Suresh | Data Analytics & AI Enthusiast
 
 Master's in Data Analytics @ San Jose State University (Dec 2025)  
 Passionate about solving real-world problems using Generative AI, LLMs, and Data Engineering  
 Open to internships and full-time roles in Data Science, AI/ML Research, or Software Engineering
 
+---
 
 ##  Skills
 
@@ -15,6 +15,7 @@ Pandas • NumPy • scikit-learn • LangChain • HuggingFace • Streamlit
 **Cloud & Platforms:**  
 Google Cloud Platform (GCP) • AWS • Git • GitHub • VS Code
 
+---
 
 ##  Featured Projects
 
@@ -23,6 +24,7 @@ A Multimodal Retrieval-Augmented Generation system that answers queries from PDF
 **Tech Stack:** LangChain, FAISS, OpenAI, HuggingFace Transformers  
 🔗 [View Project](./projects/multimodal-rag)
 
+---
 
 ### Generative AI Healthcare Agent
 Developed a voice-enabled healthcare assistant using Whisper and a custom LLM pipeline for dynamic response generation.  
