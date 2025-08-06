@@ -8,29 +8,7 @@ With over 3 years of experience in industry and research, I’ve developed syste
 
 I also teach Java and Python at a family-run computer training center, mentoring students on foundational programming and applied problem-solving.
 
-- 🎓 MS in Applied Data Science, San Jose State University
-- 🎓 BTech in Informtion Technology, Thiagarajar College of Engineering 
-- 💡 Interests: Generative AI, Big Data, Machine Learning, Visualization  
-- 🌐 [LinkedIn](https://www.linkedin.com/in/aparna-suresh-4520512a3/)  
-- ✉️ Contact: aparnabharathi.suresh@sjsu.edu
-
----
-
-## 🧑‍💻 Experience
-
-### 💡 Software Engineering Intern – Dimiour, VDart Digital (Remote)
-Apr 2025 – July 2025
-
-- Developed a Retrieval-Augmented Generation (RAG) system to streamline API documentation and improve developer productivity.
-- Designed SQL-driven dashboards and BI pipelines using Metabase for real-time insights.
-- Applied prompt engineering strategies to enhance generative model accuracy and content relevance.
-
-### 🧪 Test Engineering Analyst – Accenture, India
-Jul 2015 – Apr 2018
-
-- Automated test scripts and implemented SQL-based data validation for enterprise QA workflows.
-- Reduced test execution time by 40% by optimizing test logic and infrastructure.
-- Collaborated with cross-functional Agile teams to support secure and scalable application deployments.
+💡 Interests: Generative AI, Big Data, Machine Learning, Visualization  
 
 ---
 
@@ -181,3 +159,12 @@ Ongoing – India (Remote)
 - Promote problem-solving skills using platforms like HackerRank and real-world use cases.
 
 ---
+
+## Connect with me
+
+- 🌐 [LinkedIn](https://www.linkedin.com/in/aparna-suresh-4520512a3/)  
+- ✉️ Contact: aparnabharathi.suresh@sjsu.edu
+
+---
+
+⭐ Thanks for visiting! Explore my projects and feel free to connect!
