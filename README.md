@@ -63,12 +63,12 @@ With over 3 years of experience in industry and research, I’ve developed syste
 - Relational schema design and ER modeling
 - Query optimization and data retrieval with SQL
 
-### 📐 [Mathematical Foundations](https://github.com/AparnaBharathiSuresh/data-analytics-masters-portfolio/tree/main/MathematicalMethodsForDataAnalytics)
+### 📐[Mathematical Foundations](https://github.com/AparnaBharathiSuresh/data-analytics-masters-portfolio/tree/main/MathematicalMethodsforDataAnalytics)
 
 - Probability, statistics, and linear algebra for ML
 - Implementation of matrix operations and regression from scratch
 
-### 🧵 [/BigDataAnalytics](https://github.com/AparnaBharathiSuresh/data-analytics-masters-portfolio/tree/main/BigDataAnalytics))
+### 🧵 [Big Data Analytics](https://github.com/AparnaBharathiSuresh/data-analytics-masters-portfolio/tree/main/BigDataAnalytics))
 
 - Spark and Hadoop-based data pipelines
 - PySpark for large-scale transformations
