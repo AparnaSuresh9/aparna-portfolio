@@ -34,7 +34,7 @@ With over 3 years of experience in industry and research, I’ve developed syste
 - Created an NLP-based system using PyTorch and the OpenAI API to analyze large-scale patent data.
 - Built interactive dashboards for insight extraction and product innovation strategy.
 
-### 📰 [New York Times Sentiment Prediction](https://github.com/AparnaBharathiSuresh/data-analytics-masters-portfolio/tree/main/DataBaseSystems/NewYorkTimes_Analysis)
+### 📰 [New York Times Sentiment Prediction](https://github.com/AparnaBharathiSuresh/data-analytics-masters-portfolio/tree/main/DatabaseSystems/NewYorkTimes_Analysis)
 
 - Built a sentiment analysis model to classify article tone using livestream data from the NYT.
 - Developed a full pipeline using AWS, Apache Airflow, dbt, and Snowflake as the central data warehouse.
