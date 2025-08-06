@@ -12,7 +12,7 @@ With over 3 years of experience in industry and research, I’ve developed syste
 
 ## 💼 Featured Projects
 
-### 🧬 [Generative AI Healthcare Agents]
+### 🧬 [Generative AI Healthcare Agents](https://github.com/AparnaBharathiSuresh/data-analytics-masters-portfolio/tree/main/Generative%20AI%20Healthcare%20Agents)
 
 - Designed and fine-tuned LLM-powered chatbots for wellness applications using NLP and deep learning.
 - Implemented Retrieval-Augmented Generation (RAG) pipelines to ensure accurate, explainable healthcare responses.
