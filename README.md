@@ -39,7 +39,7 @@ With over 3 years of experience in industry and research, I’ve developed syste
 - Built a sentiment analysis model to classify article tone using livestream data from the NYT.
 - Developed a full pipeline using AWS, Apache Airflow, dbt, and Snowflake as the central data warehouse.
 
-### 🌐 [Inventors Circle](https://github.com/AparnaBharathiSuresh/data-analytics-masters-portfolio/tree/main/DistribuedSystems/Project-InventorsCircle)
+### 🌐 [Inventors Circle](https://github.com/AparnaBharathiSuresh/data-analytics-masters-portfolio/tree/main/DistributedSystems/Project-InventorsCircle)
 
 - Designed and deployed a MERN-based collaboration platform to connect inventors and researchers.
 - Implemented hybrid recommendation systems and hosted on AWS EC2 for scalable access.
