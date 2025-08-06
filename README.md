@@ -1,69 +1,183 @@
-# 👋 Aparna Suresh | Data Analytics & AI Enthusiast
+# 📚 Applied Data Science Portfolio – Aparna Bharathi Suresh
 
-🎓 Master’s in Data Analytics @ San Jose State University (Dec 2025)  
-💡 Passionate about solving real-world problems using Generative AI, LLMs & Data Engineering  
-🚀 Actively seeking internships & full-time roles in Data Science, AI/ML Research, or Software Engineering
+## 👩‍💼 About Me
 
----
+I'm an Analytics Engineer and Generative AI Practitioner with a strong foundation in Python, SQL, and distributed data systems. Currently pursuing my M.S. in Data Analytics at San Jose State University, I specialize in building intelligent, end-to-end data-driven solutions across domains like healthcare, NLP, and enterprise analytics.
 
-## 💻 Skills
+With over 3 years of experience in industry and research, I’ve developed systems ranging from Retrieval-Augmented Generation (RAG) pipelines and LLM-based applications to ETL workflows, interactive dashboards, and cloud-native deployments. I enjoy transforming complex datasets into actionable insights through MLOps, prompt engineering, and scalable infrastructure.
 
-**Languages & Tools:**  
-Python • SQL • Java • HTML/CSS/JS • React • Tableau • PySpark • Docker • Snowflake  
+I also teach Java and Python at a family-run computer training center, mentoring students on foundational programming and applied problem-solving.
 
-**Frameworks & Libraries:**  
-Pandas • NumPy • scikit-learn • LangChain • HuggingFace • Streamlit  
-
-**Cloud & Platforms:**  
-Google Cloud Platform (GCP) • AWS • Git • GitHub • VS Code  
+- 🎓 MS in Applied Data Science, San Jose State University
+- 🎓 BTech in Informtion Technology, Thiagarajar College of Engineering 
+- 💡 Interests: Generative AI, Big Data, Machine Learning, Visualization  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/aparna-suresh-4520512a3/)  
+- ✉️ Contact: aparnabharathi.suresh@sjsu.edu
 
 ---
 
-## 🚀 Featured Projects
+## 🧑‍💻 Experience
 
-### 🧠 [Multimodal RAG System for PDF QA](./projects/multimodal-rag)
-A Retrieval-Augmented Generation system that answers queries from PDFs using both text and image-based retrieval.  
-**Tech Stack:** LangChain, FAISS, OpenAI, HuggingFace Transformers
+### 💡 Software Engineering Intern – Dimiour, VDart Digital (Remote)
+Apr 2025 – July 2025
 
----
+- Developed a Retrieval-Augmented Generation (RAG) system to streamline API documentation and improve developer productivity.
+- Designed SQL-driven dashboards and BI pipelines using Metabase for real-time insights.
+- Applied prompt engineering strategies to enhance generative model accuracy and content relevance.
 
-### 💬 [Generative AI Healthcare Agent](./projects/healthcare-agent)
-A voice-enabled healthcare assistant using Whisper + custom LLM pipeline for real-time response generation.  
-**Frontend:** Built with React and Streamlit for health insights.  
-**Tech Stack:** Python, React, Streamlit, Docker
+### 🧪 Test Engineering Analyst – Accenture, India
+Jul 2015 – Apr 2018
 
----
-
-### 📊 [Patent Data Pipeline & Dashboard](./projects/patent-analysis)
-Built a scalable pipeline using PySpark to analyze patent trends, with an interactive React dashboard.  
-**Tech Stack:** PySpark, MongoDB, React, GCP
+- Automated test scripts and implemented SQL-based data validation for enterprise QA workflows.
+- Reduced test execution time by 40% by optimizing test logic and infrastructure.
+- Collaborated with cross-functional Agile teams to support secure and scalable application deployments.
 
 ---
 
-### 📰 [NY Times Sentiment Prediction](./projects/nyt-sentiment)
-Predicted sentiment of NYT articles using NLP and visualized long-term trends.  
-**Tech Stack:** Python (NLTK, scikit-learn), Tableau, Snowflake
+## 💼 Featured Projects
+
+### 🧬 [Generative AI Healthcare Agents]
+
+- Designed and fine-tuned LLM-powered chatbots for wellness applications using NLP and deep learning.
+- Implemented Retrieval-Augmented Generation (RAG) pipelines to ensure accurate, explainable healthcare responses.
+- Collaborated across disciplines to bridge technical innovation with real-world medical needs.
+
+### 🧏‍♀️ [Sign Language Interpretation System](https://github.com/AparnaBharathiSuresh/data-analytics-masters-portfolio/tree/main/DeepLearning/Project_SignLanguage)
+
+- Developed a system that interprets sign language data using generative AI and LLMs.
+- Utilized transformer-based models to map sign inputs into natural language sentences.
+- Improved translation accuracy and contextual understanding through iterative feedback.
+
+### 🔍 [Text-to-SQL LLM Application](https://github.com/AparnaBharathiSuresh/data-analytics-masters-portfolio/tree/main/GenAI/Project_TextToSQL)
+
+- Built a natural language interface to generate SQL using a fine-tuned GPT-4o Mini model on the SPIDER dataset.
+- Integrated agentic reasoning to handle ambiguous queries and clarify user intent before SQL generation.
+
+### 🧠 [AI-Powered Patent Analysis System](https://github.com/AparnaBharathiSuresh/data-analytics-masters-portfolio/tree/main/BigDataAnalytics/Project)
+
+- Created an NLP-based system using PyTorch and the OpenAI API to analyze large-scale patent data.
+- Built interactive dashboards for insight extraction and product innovation strategy.
+
+### 📰 [New York Times Sentiment Prediction](https://github.com/AparnaBharathiSuresh/data-analytics-masters-portfolio/tree/main/DataBaseSystems/NewYorkTimes_Analysis)
+
+- Built a sentiment analysis model to classify article tone using livestream data from the NYT.
+- Developed a full pipeline using AWS, Apache Airflow, dbt, and Snowflake as the central data warehouse.
+
+### 🌐 [Inventors Circle](https://github.com/AparnaBharathiSuresh/data-analytics-masters-portfolio/tree/main/DistribuedSystems/Project-InventorsCircle)
+
+- Designed and deployed a MERN-based collaboration platform to connect inventors and researchers.
+- Implemented hybrid recommendation systems and hosted on AWS EC2 for scalable access.
+
+### 📊 [Life Expectancy Analysis](https://github.com/AparnaBharathiSuresh/data-analytics-masters-portfolio/tree/main/MachineLearning/Project_LifeExpectancy)
+
+- Analyzed global health trends using Tableau dashboards and regression models.
+- Identified key predictors of life expectancy across 193 countries from 2000 to 2015.
 
 ---
 
-### 🧪 [Automation Testing & Time Savings](./projects/automation)
-Automation scripts using Java & Selenium led to a 40% reduction in manual test execution time.  
-**Tech Stack:** Java, Selenium, TestNG
+## 🧠 Domains Covered
+
+### 📊 [Data Visualization](https://github.com/AparnaBharathiSuresh/data-analytics-masters-portfolio/tree/main/DataVisualization)
+
+- Visual storytelling with Tableau Public
+- Python-based exploratory data analysis using `matplotlib` and `seaborn`
+
+### 🗃️ [Databases & SQL](https://github.com/AparnaBharathiSuresh/data-analytics-masters-portfolio/tree/main/DatabaseSystems)
+
+- Relational schema design and ER modeling
+- Query optimization and data retrieval with SQL
+
+### 📐 [Mathematical Foundations](https://github.com/AparnaBharathiSuresh/data-analytics-masters-portfolio/tree/main/MathematicalMethodsForDataAnalytics)
+
+- Probability, statistics, and linear algebra for ML
+- Implementation of matrix operations and regression from scratch
+
+### 🧵 [/BigDataAnalytics](https://github.com/AparnaBharathiSuresh/data-analytics-masters-portfolio/tree/main/BigDataAnalytics))
+
+- Spark and Hadoop-based data pipelines
+- PySpark for large-scale transformations
+- Scalable file processing and cloud-based DAGs
+
+### 🖧 [Distributed Systems](https://github.com/AparnaBharathiSuresh/data-analytics-masters-portfolio/tree/main/DistribuedSystems)
+
+- Web-based systems, REST APIs, and cloud integration for scalable applications
+
+### 🧠 [Machine Learning](https://github.com/AparnaBharathiSuresh/data-analytics-masters-portfolio/tree/main/MachineLearning)
+
+- Model training and evaluation using `scikit-learn`
+- Projects involving classification, regression, clustering
+
+### 🤖 [Deep Learning](https://github.com/AparnaBharathiSuresh/data-analytics-masters-portfolio/tree/main/DeepLearning)
+
+- CNNs, RNNs, and transformers implemented with PyTorch or TensorFlow
+- Model visualization, training analysis, and evaluation metrics
+
+### 🧬 [Generative AI](https://github.com/AparnaBharathiSuresh/data-analytics-masters-portfolio/tree/main/GenAI)
+
+- Applied LLMs and diffusion models for creative and analytical tasks
+- Built RAG systems, fine-tuned models, and designed prompt strategies
 
 ---
 
-## 📄 Resume
+## 🌐 Interactive Tableau Dashboards
 
-📥 [Download Resume (PDF)](https://yourdomain.com/resume.pdf) 
-
----
-
-## 📬 Let's Connect
-
-📧 Email: aparnabharathi.suresh@sjsu.edu  
-💼 [LinkedIn](https://www.linkedin.com/in/aparna-suresh-4520512a3/)  
-📁 [Portfolio Repo](https://github.com/your-username/portfolio)  
+- [💹 Profit Trends & Regional Performance Report](https://public.tableau.com/views/Assignment4_AparnaSuresh/Story1)
+- [🎮 Global Video Game Sales Dashboard](https://public.tableau.com/app/profile/aparna.bharathi.suresh/viz/Assignment1_Aparna_17087304538840/Story1)
+- [🌍 Life Expectancy & Global Health Insights](https://public.tableau.com/views/DATA_230_Project/Story1?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)
 
 ---
 
-> ⚡ Always learning. Always building. Excited about what’s next.
+## ⚙️ Tools & Technologies
+
+### 🧪 Languages & Libraries
+
+- Python, SQL, JavaScript, Bash
+- Pandas, NumPy, Scikit-learn, PyTorch, TensorFlow, OpenAI API, Transformers (HuggingFace), Statsmodels
+
+### 🧠 Machine Learning & AI
+
+- Regression, Classification, Clustering, A/B Testing
+- Transformers, RAG (Retrieval-Augmented Generation), LLM Fine-tuning
+- Text-to-SQL, Prompt Engineering, Generative AI, Diffusion Models
+
+### 🛠️ Data Engineering & Processing
+
+- Apache Airflow, Apache Spark, Hadoop, Hive
+- dbt (data build tool), ETL Pipelines, Data Warehousing
+- Snowflake, Google BigQuery, PostgreSQL, Metabase
+
+### 📊 Visualization & BI
+
+- Tableau, Power BI, Matplotlib, Seaborn, Plotly
+- Interactive Dashboards, Storytelling with Data
+
+### ☁️ Cloud & DevOps
+
+- AWS (S3, EC2, Lambda), GCP (BigQuery, Vertex AI)
+- Docker, Git, GitHub Actions, Linux
+
+### 💻 Developer Tools
+
+- Git, VS Code, Jupyter Notebooks, Google Colab, JIRA, Postman
+
+---
+
+## 🏅 Certifications & Awards
+
+- 🏆 Google Project Management Certificate – Oct 2022
+- 📱 Mobile App Development – San Diego Community College
+- ⭐ Accenture Celebrates Excellence (ACE) Award – Aug 2016
+
+---
+
+## 👩‍🏫 Teaching Experience
+
+Java & Python Instructor – Family-Owned Computer Training Center
+Ongoing – India (Remote)
+
+- Teach hands-on programming courses in Java and Python to high school and college students.
+- Designed beginner-to-intermediate level modules covering OOP, data structures, algorithms, and application development.
+- Guide students through coding projects, debugging practices, and exam preparation.
+- Promote problem-solving skills using platforms like HackerRank and real-world use cases.
+
+---
