@@ -44,7 +44,7 @@ With over 3 years of experience in industry and research, I’ve developed syste
 - Designed and deployed a MERN-based collaboration platform to connect inventors and researchers.
 - Implemented hybrid recommendation systems and hosted on AWS EC2 for scalable access.
 
-### 📊 [Life Expectancy Analysis](https://github.com/AparnaBharathiSuresh/data-analytics-masters-portfolio/tree/main/MachineLearning/Project_LifeExpectancy)
+### 📊 [Life Expectancy Analysis](https://github.com/AparnaBharathiSuresh/data-analytics-masters-portfolio/tree/main/MachinLearning/Project_LifeExpectancy)
 
 - Analyzed global health trends using Tableau dashboards and regression models.
 - Identified key predictors of life expectancy across 193 countries from 2000 to 2015.
