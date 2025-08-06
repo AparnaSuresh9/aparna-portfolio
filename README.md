@@ -68,7 +68,7 @@ With over 3 years of experience in industry and research, I’ve developed syste
 - Probability, statistics, and linear algebra for ML
 - Implementation of matrix operations and regression from scratch
 
-### 🧵 [Big Data Analytics](https://github.com/AparnaBharathiSuresh/data-analytics-masters-portfolio/tree/main/BigDataAnalytics))
+### 🧵 [Big Data Analytics](https://github.com/AparnaBharathiSuresh/data-analytics-masters-portfolio/tree/main/BigDataAnalytics)
 
 - Spark and Hadoop-based data pipelines
 - PySpark for large-scale transformations
