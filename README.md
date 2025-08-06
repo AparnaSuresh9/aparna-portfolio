@@ -6,8 +6,6 @@ I'm an Analytics Engineer and Generative AI Practitioner with a strong foundatio
 
 With over 3 years of experience in industry and research, I’ve developed systems ranging from Retrieval-Augmented Generation (RAG) pipelines and LLM-based applications to ETL workflows, interactive dashboards, and cloud-native deployments. I enjoy transforming complex datasets into actionable insights through MLOps, prompt engineering, and scalable infrastructure.
 
-I also teach Java and Python at a family-run computer training center, mentoring students on foundational programming and applied problem-solving.
-
 💡 Interests: Generative AI, Big Data, Machine Learning, Visualization  
 
 ---
