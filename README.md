@@ -4,7 +4,7 @@
 
 I'm an Analytics Engineer and Generative AI Practitioner with a strong foundation in Python, SQL, and distributed data systems. Currently pursuing my M.S. in Data Analytics at San Jose State University, I specialize in building intelligent, end-to-end data-driven solutions across domains like healthcare, NLP, and enterprise analytics.
 
-With over 3 years of experience in industry and research, I’ve developed systems ranging from Retrieval-Augmented Generation (RAG) pipelines and LLM-based applications to ETL workflows, interactive dashboards, and cloud-native deployments. I enjoy transforming complex datasets into actionable insights through MLOps, prompt engineering, and scalable infrastructure.
+With over 3 years of experience in industry, I’ve developed systems ranging from Retrieval-Augmented Generation (RAG) pipelines and LLM-based applications to ETL workflows, interactive dashboards, and cloud-native deployments. I enjoy transforming complex datasets into actionable insights through MLOps, prompt engineering, and scalable infrastructure.
 
 💡 Interests: Generative AI, Big Data, Machine Learning, Visualization  
 
